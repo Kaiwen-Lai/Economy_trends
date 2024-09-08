@@ -1,0 +1,6 @@
+This capstone project, conducted as part of the Master of Science in Business Analytics program at the University of California, Irvine, aimed to integrate academic learning with industry practice by addressing real-world data science challenges. 
+Partnering with Pacific Life Insurance Company, the project focused on leveraging data analytics to enhance investment decision-making by better understanding and predicting macroeconomic trends.
+Key objectives included deriving actionable insights for navigating financial markets and improving the prediction of macroeconomic trends.
+The project employed data analysis and modeling techniques, including Random Forest, ARIMA, LSTM, and Prophet models, to forecast key economic indicators. 
+The resulting interactive dashboard showcased key economic trends and provided strategic recommendations for investment decisions, including focusing on growth stocks in technology and consumer discretionary sectors and hedging against inflation by increasing holdings in TIPS and real assets. 
+Overall, the project enhanced Pacific Life's understanding of macroeconomic trends and improved investment decision-making through the dashboard and predictive models.
